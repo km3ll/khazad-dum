@@ -1,1 +1,6 @@
-# testdrive-scala
+# middle-earth
+
+
+### references
+
+- [monocle](https://www.optics.dev/Monocle/)

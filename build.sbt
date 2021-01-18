@@ -1,4 +1,4 @@
-name := "testdrive-scala"
+name := "middle-earth"
 
 version := "0.1"
 
